@@ -1,6 +1,6 @@
 name: photo
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.49557093624025583
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: follow
     item: null
     url: null
+typography_spectrum: 0.28886651527136564
